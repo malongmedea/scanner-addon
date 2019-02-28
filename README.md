@@ -30,6 +30,6 @@
 2. test.js中的Uint8Array构造函数参数应为一个窗口句柄值【这是重点中的重点】
 3. 提示：必须连接扫描仪或者安装了虚拟扫描仪，否则无法运行。
 
-## 采坑参考：
+## 踩坑参考：
 
-1. [《vsCode开发node.js addon 采坑记》]( https://blog.csdn.net/love3d/article/details/87926558 )
+1. [《vsCode开发node.js addon 踩坑记》]( https://blog.csdn.net/love3d/article/details/87926558 )

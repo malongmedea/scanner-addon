@@ -1,7 +1,7 @@
 {
-  "name": "node-addon",
-  "version": "0.0.0",
-  "description": "Node.js Addons Example #1",
+  "name": "scanner-addon",
+  "version": "0.1.0",
+  "description": "这是一个node.js addon项目，通过twain协议调用扫描仪",
   "main": "index.js",
   "private": true,
   "dependencies": {
